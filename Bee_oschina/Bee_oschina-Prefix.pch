@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'Bee_oschina' target in the 'Bee_oschina' project
+//
+
+#ifdef __OBJC__
+    #import <UIKit/UIKit.h>
+    #import <Foundation/Foundation.h>
+    #import "Bee.h"
+#endif
